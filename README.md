@@ -1,2 +1,2 @@
 # FRB-Analysis
-Computing scintillation and decorrelation bandwitdths for FRBs in the direction of M81 using CHIME/FRB &amp; CHIME/Pulsar systems.
+Computing scintillation and decorrelation statistics for fast radio bursts in the direction of M81 using the CHIME/Pulsar system.
