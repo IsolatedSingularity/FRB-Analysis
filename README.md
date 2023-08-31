@@ -16,7 +16,7 @@ We characterize this information for fast radio burst (FRB) repeater signals det
 
 ## Caveats
 
-One caveat to consider is the potential behavior of the frequency functional at extreme limits. In cases where the functional approaches singularities, the code has degeneracies in the information bordering the signal distribution. Removing these degenracies to avoid redudnant computation is essential for scalability in terms of its time complexity.
+One caveat to consider is the potential behavior of the frequency functional at extreme limits. In cases where the functional approaches singularities, the code has degeneracies in the information bordering the signal distribution. Removing these degeneracies would avoid redudnant computation time on the cluster which would essential for scalability/time complexity.
 
 ## Next Steps
 
