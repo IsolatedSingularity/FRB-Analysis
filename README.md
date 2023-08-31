@@ -5,7 +5,7 @@
 
 ## Objective
 
-In quantum gravity it is possible to describe a black hole (which formed from collapse) quantum tunneling into a while hole without violating classical general relativity[[1]](https://inspirehep.net/literature/1403709).
+In quantum gravity it is possible to describe a black hole (which formed from collapse) quantum tunneling into a while hole without violating classical general relativity [[1]](https://www.researchgate.net/publication/265730144_Fast_Radio_Bursts_and_White_Hole_Signals). These are thought to be connected to 
 
 Characterized the statistics of fast radio burst repeater signals detected from the direction of the M81 galaxy group. Numerically computed scintillation and decorrelation bandwidths of signals with the CHIME/Pulsar and CHIME/FRB systems amongst non-linear cosmological noise.
 
