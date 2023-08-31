@@ -5,7 +5,7 @@
 
 ## Objective
 
-In quantum gravity it is possible to describe a black hole quantum tunneling into a while hole in the classical limit [[1]](https://inspirehep.net/literature/1403709). This could occur in events where a black hole collapses faster than the Hawking radiation time, and so the matter in the black hole interior must tunnel to corresponding white hole spacetime interior. These tunnelling events are thought to be connected to with periodic radio signals occuring at low time scales knwown as **fast radio bursts** [[2]](https://www.researchgate.net/publication/265730144_Fast_Radio_Bursts_and_White_Hole_Signals).
+In quantum gravity it is possible to describe a black hole quantum tunneling into a while hole in the classical limit [[1]](https://inspirehep.net/literature/1403709). This could occur in events where a black hole collapses faster than the Hawking radiation time, and so the matter in the black hole interior must tunnel to corresponding white hole interior. These tunnelling events are thought to be connected to with periodic radio signals occuring at low time scales knwown as **fast radio bursts** [[2]](https://www.researchgate.net/publication/265730144_Fast_Radio_Bursts_and_White_Hole_Signals).
 
 Characterized the statistics of fast radio burst repeater signals detected from the direction of the M81 galaxy group. Numerically computed scintillation and decorrelation bandwidths of signals with the CHIME/Pulsar and CHIME/FRB systems amongst non-linear cosmological noise.
 
