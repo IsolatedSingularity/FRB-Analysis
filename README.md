@@ -1,11 +1,11 @@
-# FRB-Analysis
+# Fast Radio Burst Cosmology
 ###### Under the supervision of [Professor Victoria Kaspi](https://www.physics.mcgill.ca/~vkaspi/) at [McGill University](https://www.mcgill.ca/). In collaboration with the [CHIME experiment](https://chime-experiment.ca/en) and [Canada Compute - Cedar](https://docs.alliancecan.ca/wiki/Cedar).
 
 ![alt text](https://github.com/IsolatedSingularity/FRB-Analysis/blob/main/Plots/ACF_Sum%3B%20Fit.png)
 
 ## Objective
 
-In quantum gravity it is possible to describe a black hole quantum tunneling into a while hole in the classical limit [[1]](https://inspirehep.net/literature/1403709). This could occur in events where a black hole collapses faster than the Hawking radiation time, and so the matter in the black hole interior must tunnel to corresponding white hole interior. These tunnelling events are thought to be connected to with periodic radio signals occuring at low time scales knwown as **fast radio bursts** [[2]](https://www.researchgate.net/publication/265730144_Fast_Radio_Bursts_and_White_Hole_Signals).
+In quantum gravity it is possible to describe a black hole quantum tunneling into a while hole in the classical limit [[1]](https://inspirehep.net/literature/1403709). This could occur in events where a black hole collapses faster than the Hawking radiation time, and so the matter in the black hole interior must tunnel to corresponding white hole interior. These tunnelling events are thought to be connected to with periodic radio signals occuring at low time scales, known as **fast radio bursts** (FRB) [[2]](https://www.researchgate.net/publication/265730144_Fast_Radio_Bursts_and_White_Hole_Signals). These signals are usually seen to be emitted by pulsars or merger systems and as the signal travels through the interstellar medium their signals experience dispersion causing different frequencies to arrive at different times. Moreover each are subject to spacetime dependent background noise given by primordial perturbations in the very early universe.
 
 Characterized the statistics of fast radio burst repeater signals detected from the direction of the M81 galaxy group. Numerically computed scintillation and decorrelation bandwidths of signals with the CHIME/Pulsar and CHIME/FRB systems amongst non-linear cosmological noise.
 
