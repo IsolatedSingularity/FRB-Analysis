@@ -145,6 +145,8 @@ def plot_acf(acf_data):
 
 ---
 
-> **Tip:** Always inspect flagged channels to ensure valid signal data is not excluded.
+> [!TIP]
+> Always inspect flagged channels to ensure valid signal data is not excluded.
 
-> **Note:** Detailed derivations of ACF formulas, ISM turbulence modeling, and quantum gravity corrections can be found in the associated PDF in the main repository.
+> [!NOTE]
+> Detailed derivations of ACF formulas, ISM turbulence modeling, and quantum gravity corrections can be found in the associated PDF in the main repository.
